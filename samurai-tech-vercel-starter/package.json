@@ -1,0 +1,1 @@
+{ "name": "samurai-tech", "version": "1.0.0", "private": true, "dependencies": {}, "scripts": { "start": "react-scripts start", "build": "react-scripts build", "test": "react-scripts test", "eject": "react-scripts eject" } }
